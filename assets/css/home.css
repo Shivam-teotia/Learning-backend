@@ -1,0 +1,9 @@
+body{
+    margin: 0;
+}
+#heading{
+    text-align: center;
+    margin-top: 20px;
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
